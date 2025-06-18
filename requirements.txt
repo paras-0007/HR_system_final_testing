@@ -1,0 +1,9 @@
+google-api-python-client
+google-auth-oauthlib
+pdfplumber
+openai
+python-dotenv
+psycopg2-binary 
+streamlit       
+pandas          
+python-docx  
